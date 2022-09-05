@@ -1,2 +1,2 @@
 #!/bin/bash
-al -dl .[^.] 
+al -dl .[^.] <path> 
